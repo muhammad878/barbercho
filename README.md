@@ -12,7 +12,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.1-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 
-[Demo Website](https://barbercho.pages.dev) • [Instagram](https://www.instagram.com/barbercho.ind) • [WhatsApp](https://wa.me/62851663484874)
+[GitHub](https://github.com/muhammad878/barbercho) • [Instagram](https://www.instagram.com/barbercho.ind) • [WhatsApp](https://wa.me/62851663484874)
 
 </div>
 
@@ -76,7 +76,7 @@
 
 ### Clone Repository
 ```bash
-git clone https://github.com/yourusername/barbercho.git
+git clone https://github.com/muhammad878/barbercho.git
 cd barbercho
 ```
 
@@ -123,7 +123,7 @@ yarn preview
    git add .
    git commit -m "Initial commit"
    git branch -M main
-   git remote add origin https://github.com/yourusername/barbercho.git
+   git remote add origin https://github.com/muhammad878/barbercho.git
    git push -u origin main
    ```
 
