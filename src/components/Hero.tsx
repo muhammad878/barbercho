@@ -74,25 +74,25 @@ export default function Hero() {
                 <div className="grid grid-cols-2 md:grid-cols-4 gap-4 sm:gap-5 max-w-4xl mx-auto px-4">
                   <div className="group text-center p-4 sm:p-5 bg-black/40 backdrop-blur-md rounded-xl border-2 border-accent-500/30 hover:border-accent-500 transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:shadow-accent-500/30">
                     <div className="w-12 h-12 sm:w-14 sm:h-14 mx-auto mb-3 bg-gradient-to-br from-accent-500 to-accent-600 rounded-xl flex items-center justify-center group-hover:scale-110 transition-transform duration-300 shadow-lg">
-                      <img src="/src/assets/icons/haircut.svg" alt="Potong Rambut" className="w-7 h-7 sm:w-8 sm:h-8" />
+                      <img src="/icons/haircut.svg" alt="Potong Rambut" className="w-7 h-7 sm:w-8 sm:h-8" />
                     </div>
                     <div className="text-xs sm:text-sm font-semibold text-white group-hover:text-accent-500 transition-colors leading-tight">Potong Rambut</div>
                   </div>
                   <div className="group text-center p-4 sm:p-5 bg-black/40 backdrop-blur-md rounded-xl border-2 border-accent-500/30 hover:border-accent-500 transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:shadow-accent-500/30">
                     <div className="w-12 h-12 sm:w-14 sm:h-14 mx-auto mb-3 bg-gradient-to-br from-accent-500 to-accent-600 rounded-xl flex items-center justify-center group-hover:scale-110 transition-transform duration-300 shadow-lg">
-                      <img src="/src/assets/icons/styling.svg" alt="Styling" className="w-7 h-7 sm:w-8 sm:h-8" />
+                      <img src="/icons/styling.svg" alt="Styling" className="w-7 h-7 sm:w-8 sm:h-8" />
                     </div>
                     <div className="text-xs sm:text-sm font-semibold text-white group-hover:text-accent-500 transition-colors leading-tight">Styling</div>
                   </div>
                   <div className="group text-center p-4 sm:p-5 bg-black/40 backdrop-blur-md rounded-xl border-2 border-accent-500/30 hover:border-accent-500 transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:shadow-accent-500/30">
                     <div className="w-12 h-12 sm:w-14 sm:h-14 mx-auto mb-3 bg-gradient-to-br from-accent-500 to-accent-600 rounded-xl flex items-center justify-center group-hover:scale-110 transition-transform duration-300 shadow-lg">
-                      <img src="/src/assets/icons/beard.svg" alt="Jenggot" className="w-7 h-7 sm:w-8 sm:h-8" />
+                      <img src="/icons/beard.svg" alt="Jenggot" className="w-7 h-7 sm:w-8 sm:h-8" />
                     </div>
                     <div className="text-xs sm:text-sm font-semibold text-white group-hover:text-accent-500 transition-colors leading-tight">Jenggot</div>
                   </div>
                   <div className="group text-center p-4 sm:p-5 bg-black/40 backdrop-blur-md rounded-xl border-2 border-accent-500/30 hover:border-accent-500 transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:shadow-accent-500/30">
                     <div className="w-12 h-12 sm:w-14 sm:h-14 mx-auto mb-3 bg-gradient-to-br from-accent-500 to-accent-600 rounded-xl flex items-center justify-center group-hover:scale-110 transition-transform duration-300 shadow-lg">
-                      <img src="/src/assets/icons/grooming.svg" alt="Perawatan" className="w-7 h-7 sm:w-8 sm:h-8" />
+                      <img src="/icons/grooming.svg" alt="Perawatan" className="w-7 h-7 sm:w-8 sm:h-8" />
                     </div>
                     <div className="text-xs sm:text-sm font-semibold text-white group-hover:text-accent-500 transition-colors leading-tight">Perawatan</div>
                   </div>
@@ -107,7 +107,7 @@ export default function Hero() {
                   className="group inline-flex items-center justify-center px-6 py-3 sm:px-8 sm:py-4 md:px-10 md:py-5 bg-accent-500 text-primary-900 font-bold text-sm sm:text-base md:text-lg transition-all duration-300 hover:bg-accent-400 hover:shadow-2xl hover:shadow-accent-500/50 hover:scale-105 focus:outline-none border-2 border-accent-600 rounded-sm"
                 >
                   <span className="flex items-center">
-                    <img src="/src/assets/icons/whatsapp.svg" alt="WhatsApp" className="w-4 h-4 sm:w-5 sm:h-5 mr-2 sm:mr-3" />
+                    <img src="/icons/whatsapp.svg" alt="WhatsApp" className="w-4 h-4 sm:w-5 sm:h-5 mr-2 sm:mr-3" />
                     <span className="whitespace-nowrap">Pesan via WhatsApp</span>
                     <ArrowRight className="w-4 h-4 sm:w-5 sm:h-5 ml-2 group-hover:translate-x-1 transition-transform" />
                   </span>

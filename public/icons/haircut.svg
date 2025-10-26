@@ -1,0 +1,20 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Haircut Icon -->
+  <g id="haircut">
+    <!-- Head outline -->
+    <circle cx="32" cy="24" r="12" fill="none" stroke="#FF6B35" stroke-width="2"/>
+    
+    <!-- Hair lines -->
+    <path d="M20 20 Q32 12 44 20" stroke="#FF6B35" stroke-width="2" fill="none"/>
+    <path d="M22 18 Q32 10 42 18" stroke="#FF6B35" stroke-width="2" fill="none"/>
+    <path d="M24 16 Q32 8 40 16" stroke="#FF6B35" stroke-width="2" fill="none"/>
+    
+    <!-- Scissors -->
+    <g transform="translate(16, 40)">
+      <path d="M2 2 L8 1 L7 3 L4 4 Z" fill="#FFD700"/>
+      <path d="M4 2 L8 3 L7 1 L2 4 Z" fill="#FFD700"/>
+      <circle cx="8" cy="2" r="1" fill="#FF6B35"/>
+      <circle cx="2" cy="2" r="1" fill="#FF6B35"/>
+    </g>
+  </g>
+</svg>

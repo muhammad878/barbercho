@@ -1,0 +1,27 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Grooming Icon -->
+  <g id="grooming">
+    <!-- Head -->
+    <circle cx="32" cy="24" r="12" fill="none" stroke="#FF6B35" stroke-width="2"/>
+    
+    <!-- Face features -->
+    <circle cx="28" cy="22" r="1" fill="#FF6B35"/>
+    <circle cx="36" cy="22" r="1" fill="#FF6B35"/>
+    <path d="M28 30 Q32 34 36 30" stroke="#FF6B35" stroke-width="1" fill="none"/>
+    
+    <!-- Grooming tools -->
+    <g transform="translate(20, 40)">
+      <!-- Brush -->
+      <rect x="0" y="0" width="6" height="2" fill="#FFD700"/>
+      <rect x="1" y="-2" width="1" height="2" fill="#FFD700"/>
+      <rect x="2.5" y="-2" width="1" height="2" fill="#FFD700"/>
+      <rect x="4" y="-2" width="1" height="2" fill="#FFD700"/>
+    </g>
+    
+    <g transform="translate(36, 40)">
+      <!-- Mirror -->
+      <circle cx="4" cy="4" r="3" fill="none" stroke="#FF6B35" stroke-width="1"/>
+      <circle cx="4" cy="4" r="2" fill="#FFD700" opacity="0.3"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Beard Trim Icon -->
+  <g id="beard">
+    <!-- Head -->
+    <circle cx="32" cy="24" r="12" fill="none" stroke="#FF6B35" stroke-width="2"/>
+    
+    <!-- Beard -->
+    <path d="M26 36 Q32 44 38 36" stroke="#FFD700" stroke-width="4" fill="#FFD700"/>
+    <path d="M28 38 Q32 46 36 38" stroke="#FF6B35" stroke-width="2" fill="none"/>
+    
+    <!-- Razor -->
+    <g transform="translate(16, 40)">
+      <rect x="0" y="0" width="12" height="2" fill="#FF6B35" rx="1"/>
+      <rect x="2" y="-1" width="8" height="1" fill="#FFD700"/>
+      <rect x="12" y="0" width="2" height="2" fill="#2D2D2D"/>
+    </g>
+  </g>
+</svg>

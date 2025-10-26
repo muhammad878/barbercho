@@ -7,31 +7,31 @@ export default function Portfolio() {
   const portfolioImages = [
     {
       id: 1,
-      src: "/src/assets/Screenshot 2025-10-26 204654.png",
+      src: "/images/Screenshot 2025-10-26 204654.png",
       title: "Classic Barbershop",
       description: "Suasana barbershop profesional dengan dekorasi menarik"
     },
     {
       id: 2,
-      src: "/src/assets/Screenshot 2025-10-26 204711.png",
+      src: "/images/Screenshot 2025-10-26 204711.png",
       title: "Fade Haircut Premium",
       description: "Potongan fade tajam dengan detail presisi"
     },
     {
       id: 3,
-      src: "/src/assets/Screenshot 2025-10-26 204726.png",
+      src: "/images/Screenshot 2025-10-26 204726.png",
       title: "Modern Pompadour",
       description: "Gaya pompadour dengan teknik profesional"
     },
     {
       id: 4,
-      src: "/src/assets/Screenshot 2025-10-26 204741.png",
+      src: "/images/Screenshot 2025-10-26 204741.png",
       title: "Textured Style",
       description: "Styling tekstur rambut dengan volume sempurna"
     },
     {
       id: 5,
-      src: "/src/assets/Screenshot 2025-10-26 204758.png",
+      src: "/images/Screenshot 2025-10-26 204758.png",
       title: "Korean Style Cut",
       description: "Potongan gaya Korea dengan volume natural"
     }
